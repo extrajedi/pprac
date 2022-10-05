@@ -8,3 +8,6 @@ for i in range ( a):
     print("You are a bold one")
     print("You are a bold one")
     print("You are a bold one")
+    
+    print("You are a bold two")
+    print("You are a bold two")
